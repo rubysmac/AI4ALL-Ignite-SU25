@@ -57,6 +57,6 @@ Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/ziya07
 ## Authors <!--- do not change this line -->
 
 Our dedicated team: 
-- Aysha Mujeeb
+- Aysha Mujeeb (aysha.mujeeb@sjsu.edu)
 - Jade Pham ([pham224n@mtholyoke.edu](mailto:pham224n@mtholyoke.edu)) | ([LinkedIn](https://www.linkedin.com/in/jade-pham-0689192a5/))
 - Ruby Hong
