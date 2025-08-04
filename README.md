@@ -18,9 +18,9 @@ Enumerate the main results of this project in a list and describe them.
 
 2. Engineered and evaluated multiple supervised learning models (e.g., Random Forest, XGBoost, Logistic Regression) for multi-class classification (Healthy, At risk, Struggling).
 
-3. Achieved [INSERT METRIC HERE — e.g., accuracy, F1 score] with the best-performing model.
-
-4. Used feature importance analysis to identify key predictive features — [INSERT TOP IMPORTANT FEATURES HERE] — that strongly influenced mental health status.
+3. Achieved 68% accuracy score with the best-performing model.
+   
+4. Used feature importance analysis to identify key predictive features — GPA, anticipation, sadness, negative, Sleeping_Hours, Steps_Per_Day, etc. — that strongly influenced mental health status.
 
 ## Methodologies <!--- do not change this line -->
 
@@ -53,6 +53,10 @@ Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/ziya07
 - Visualization & Interpretation
     - matplotlib / seaborn – data visualization
     - SHAP – explainable AI (feature importance interpretation)
+
+## How to Navigate <!--- do not change this line -->
+mental_health_dataset.csv --> mental_health_eda.ipynb --> data_prep.ipynb --> df_with_emotions.csv 
+--> LogisticRegression.ipynb or RandomForest.ipynb or XGBoost.ipynb 
 
 ## Authors <!--- do not change this line -->
 
