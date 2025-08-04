@@ -1,19 +1,16 @@
 # Navigate Vocational Student Well-being
 
-(UPDATE IN README.md)
 Built a multimodal machine learning pipeline to classify vocational college students’ mental health status using demographic, behavioral data and self-reflection, all under the guidance of AI4ALL Ignite program's intructors and mentor. 
 Applied NLP, supervised learning models, and explainable AI techniques to help with early intervenetion of mental health problems.
 
 ## Problem Statement <!--- do not change this line -->
 
-(UPDATE IN README.md)
 Vocational students often face unique pressures and challenges, yet their mental health remains under-researched. While prior work has focused on clinical or general student populations, this project addresses the gap by exploring how structured behavioral data and unstructured text reflections can jointly inform mental health status prediction.
 
 Student well-being has major implications for academic success, dropout prevention, and long-term employability. Given post-pandemic concerns and limited counseling resources, scalable early-warning systems using machine learning could support institutions in identifying students in need and intervening earlier.
 
 ## Key Results <!--- do not change this line -->
 
-(UPDATE IN README.md)
 Enumerate the main results of this project in a list and describe them.
 
 *EXAMPLE:*
@@ -37,12 +34,10 @@ To address our research question, we combined structured and unstructured data i
 
 ## Data Sources <!--- do not change this line -->
 
-(UPDATE IN README.md)
 Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/ziya07/student-mental-health-and-resilience-dataset)
 
 ## Technologies Used <!--- do not change this line -->
 
-(UPDATE IN README.md)
 - Programming language: Python
 - Data handling & processing:
     - pandas – data wrangling and manipulation
@@ -59,10 +54,8 @@ Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/ziya07
     - matplotlib / seaborn – data visualization
     - SHAP – explainable AI (feature importance interpretation)
 
-
 ## Authors <!--- do not change this line -->
 
-(UPDATE IN README.md)
 Our dedicated team: 
 - Aysha Mujeeb
 - Jade Pham ([pham224n@mtholyoke.edu](mailto:pham224n@mtholyoke.edu)) | ([LinkedIn](https://www.linkedin.com/in/jade-pham-0689192a5/))
