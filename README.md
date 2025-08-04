@@ -11,9 +11,6 @@ Student well-being has major implications for academic success, dropout preventi
 
 ## Key Results <!--- do not change this line -->
 
-Enumerate the main results of this project in a list and describe them.
-
-*EXAMPLE:*
 1. Created a labeled dataset with structured features (e.g., GPA, Sleep_Hours) and emotion vectors extracted from self-reported reflections.
 
 2. Engineered and evaluated multiple supervised learning models (e.g., Random Forest, XGBoost, Logistic Regression) for multi-class classification (Healthy, At risk, Struggling).
