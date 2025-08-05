@@ -1,6 +1,6 @@
 # Navigate Vocational Student Well-being
 
-Built a multimodal machine learning pipeline to classify vocational college students’ mental health status using demographic, behavioral data and self-reflection, all under the guidance of AI4ALL Ignite program's intructors and mentor. 
+Built a machine learning pipeline to classify vocational college students’ mental health status using demographic, behavioral data and self-reflection, all under the guidance of AI4ALL Ignite program's intructors and mentor. 
 Applied NLP, supervised learning models, and explainable AI techniques to help with early intervenetion of mental health problems.
 
 ## Problem Statement <!--- do not change this line -->
