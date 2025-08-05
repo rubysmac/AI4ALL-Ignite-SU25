@@ -1,6 +1,6 @@
 # Navigate Vocational Student Well-being
 
-Built a machine learning pipeline to classify vocational college students’ mental health status using demographic, behavioral data and self-reflection, all under the guidance of AI4ALL Ignite program's intructors and mentor. 
+Built a machine learning pipeline to classify vocational college students’ mental health status using demographic, behavioral data and self-reflection, all under the guidance of AI4ALL Ignite program's intructors and mentor.
 Applied NLP, supervised learning models, and explainable AI techniques to help with early intervenetion of mental health problems.
 
 ## Problem Statement <!--- do not change this line -->
@@ -16,12 +16,12 @@ Student well-being has major implications for academic success, dropout preventi
 2. Engineered and evaluated multiple supervised learning models (e.g., Random Forest, XGBoost, Logistic Regression) for multi-class classification (Healthy, At risk, Struggling).
 
 3. Achieved 68% accuracy score with the best-performing model.
-   
 4. Used feature importance analysis to identify key predictive features — GPA, anticipation, sadness, negative, Sleeping_Hours, Steps_Per_Day, etc. — that strongly influenced mental health status.
 
 ## Methodologies <!--- do not change this line -->
 
 To address our research question, we combined structured and unstructured data inputs:
+
 - Applied NLP to free-text reflections using NRCLex for emotion extraction.
 - Used LabelEncoder to convert categorical into numeric labels
 - After converting textual and categorical data into numerical, used StandardScaler to normalize all numerical features
@@ -37,27 +37,29 @@ Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/ziya07
 
 - Programming language: Python
 - Data handling & processing:
-    - pandas – data wrangling and manipulation
-    - numpy – numerical operations
-    - LabelEncoder – categorical feature encoding
-    - StandardScaler – feature normalization
-    - joblib – model serialization/saving
+  - pandas – data wrangling and manipulation
+  - numpy – numerical operations
+  - LabelEncoder – categorical feature encoding
+  - StandardScaler – feature normalization
+  - joblib – model serialization/saving
 - Machine Learning models:
-    - scikit-learn – model training, evaluation, preprocessing
-    - XGBoost – advanced gradient boosting classifier
+  - scikit-learn – model training, evaluation, preprocessing
+  - XGBoost – advanced gradient boosting classifier
 - Natural Language Processing
-    - NLTK / NRCLex – text preprocessing and emotion detection
+  - NLTK / NRCLex – text preprocessing and emotion detection
 - Visualization & Interpretation
-    - matplotlib / seaborn – data visualization
-    - SHAP – explainable AI (feature importance interpretation)
+  - matplotlib / seaborn – data visualization
+  - SHAP – explainable AI (feature importance interpretation)
 
 ## How to Navigate <!--- do not change this line -->
-mental_health_dataset.csv --> mental_health_eda.ipynb --> data_prep.ipynb --> df_with_emotions.csv 
---> LogisticRegression.ipynb or RandomForest.ipynb or XGBoost.ipynb 
+
+mental_health_dataset.csv --> mental_health_eda.ipynb --> data_prep.ipynb --> df_with_emotions.csv
+--> LogisticRegression.ipynb or RandomForest.ipynb or XGBoost.ipynb
 
 ## Authors <!--- do not change this line -->
 
-Our dedicated team: 
+Our dedicated team:
+
 - Aysha Mujeeb (aysha.mujeeb@sjsu.edu)
 - Jade Pham ([pham224n@mtholyoke.edu](mailto:pham224n@mtholyoke.edu)) | ([LinkedIn](https://www.linkedin.com/in/jade-pham-0689192a5/))
-- Ruby Hong
+- Ruby Hong ([rhong08@smith.edu](mailto:rhong08@smith.edu)) | ([LinkedIn](https://www.linkedin.com/in/ruby-hong-639143326/))
