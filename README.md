@@ -60,6 +60,6 @@ mental_health_dataset.csv --> mental_health_eda.ipynb --> data_prep.ipynb --> df
 
 Our dedicated team:
 
-- Aysha Mujeeb (aysha.mujeeb@sjsu.edu) | ([LinkedIn](www.linkedin.com/in/aysha-mujeeb-13b0b6379))
+- Aysha Mujeeb (aysha.mujeeb@sjsu.edu) | ([LinkedIn](https://www.linkedin.com/in/aysha-mujeeb-13b0b6379))
 - Jade Pham ([pham224n@mtholyoke.edu](mailto:pham224n@mtholyoke.edu)) | ([LinkedIn](https://www.linkedin.com/in/jade-pham-0689192a5/))
 - Ruby Hong ([rhong08@smith.edu](mailto:rhong08@smith.edu)) | ([LinkedIn](https://www.linkedin.com/in/ruby-hong-639143326/))
