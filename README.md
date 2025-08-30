@@ -3,6 +3,10 @@
 Built a machine learning pipeline to classify vocational college students’ mental health status using demographic, behavioral data and self-reflection, all under the guidance of AI4ALL Ignite program's intructors and mentor.
 Applied NLP, supervised learning models, and explainable AI techniques to help with early intervenetion of mental health problems.
 
+- [Slides](https://docs.google.com/presentation/d/1-6Dz0SPcrJ-Ekz8U1AxIo8pPlRRZSJIvjUXRBCVCq5k/edit?slide=id.g375aa85c003_0_1#slide=id.g375aa85c003_0_1)
+- [Poster](https://docs.google.com/presentation/d/18nT5MbeGxRJGluTwZgDCDmvRhgSUs7RnrTnwp9XM6BI/edit?usp=sharing)
+
+
 ## Problem Statement <!--- do not change this line -->
 
 Vocational students often face unique pressures and challenges, yet their mental health remains under-researched. While prior work has focused on clinical or general student populations, this project addresses the gap by exploring how structured behavioral data and unstructured text reflections can jointly inform mental health status prediction.
